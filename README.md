@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Santiago Sarmiento</h1>
 
-<!--
-**SaarmyxCode/SaarmyxCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Building digital products through <strong>Nexora Labs</strong>.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  React · TypeScript · Python · Node.js · Linux
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Selected projects
+
+* **Nexora Web** — Core web platform
+* **Nexora Theme** — Minimal VS Code theme
+* **Nexora Labs** — Personal ecosystem of software projects
+
+---
+
+<p align="center">
+  <a href="https://portafolio-saarmyx.netlify.app/">Portfolio</a> ·
+  <a href="mailto:saarmyx@gmail.com">Email</a>
+</p>
