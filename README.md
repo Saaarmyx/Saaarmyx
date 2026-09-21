@@ -22,14 +22,11 @@
 
 > **Technology should feel simple.**
 
-We build products across desktop, mobile and web, with a focus on thoughtful interfaces, local-first experiences and software that gives users control over their data.
-
 ### Products
 
 * **NCode** — Modern code editor for Linux and Android.
 * **NPhotos** — Private and intuitive photo management.
 * **Nexora Web** — The digital platform and public home of Nexora.
-* **Nexora Theme** — Minimal visual tools for developers.
 * **More in development.**
 
 ---
