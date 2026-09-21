@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://nexora-web-zeta-three.vercel.app/">Nexora</a> ·
-  <a href="https://portafolio-saarmyx.netlify.app/">Portfolio</a> ·
-  <a href="mailto:saarmyx@gmail.com">Contact</a>
+  <a href="https://www.nexoradesing.site/">Nexora</a> ·
+  <a href="https://portafolio-saarmyx-phi.vercel.app/">Portfolio</a> ·
+  <!-- <a href="mailto:saarmyx@gmail.com">Contact</a> -->
 </p>
 
 ---
