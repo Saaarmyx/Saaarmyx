@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="200">
-      <img src="assets/saaarmyx.png" width="150" alt="Santiago Sarmiento" style="border-radius: 50%;"/>
+      <img src="assets/saaarmyx.png" width="200" alt="Santiago Sarmiento" style="border-radius: 50%;"/>
     </td>
     <td>
       <h1>Hola, Soy Santiago Sarmiento</h1>
